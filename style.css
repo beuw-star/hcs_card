@@ -1,0 +1,35 @@
+
+
+body{
+    /* margin: 0;
+    padding: 0; */
+    background:#F4D04E;
+}
+
+
+.card{
+    margin: 522px;
+    padding: 24px;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid #111111;
+}
+
+.svgimage{
+    background-color: #111111;
+    /* margin: auto; */
+    border: 2px blue;
+    /* padding: 20px; */
+    /* border-radius: 10px; */
+}
+
+
+.learn{
+    padding: 4px 12px 4px 12px;
+    background-color: #F4D04E;
+    border-radius: 4px;
+}
+
+.ln-bg{
+    padding-top: 24px;
+}
